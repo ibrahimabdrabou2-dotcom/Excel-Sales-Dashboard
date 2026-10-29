@@ -77,9 +77,6 @@ The dashboard provides a single reporting view that can help business stakeholde
 - Explore historical trends to support further investigation and planning.
 - Review performance across different customers, representatives, and time periods.
 
-## 📷 Dashboard Preview
-
-![Excel Sales Dashboard](images/sales-dashboard.png)
 
 ## 📁 Project Files
 
